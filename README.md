@@ -1,1 +1,1 @@
-# RPS-game
+Rock, Paper, Scissors Multiplayer Game
